@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T15:13:20.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="ozxlTe6LQCs0dSJSmc0n" version="21.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T15:37:41.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="VmhDHNbb9QC-Ne60vTJE" version="21.8.1" type="github">
   <diagram name="Page-1" id="IlUtkcIfddGkZiwR4iVP">
-    <mxGraphModel dx="1780" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,10 +105,10 @@
           <mxGeometry x="260" y="310" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JlPEXCTAJmNuak9wSZYg-40" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="275" width="250" height="150" as="geometry" />
+          <mxGeometry x="70" y="275" width="260" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="JlPEXCTAJmNuak9wSZYg-41" value="Student preference for upcoming lecture" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JlPEXCTAJmNuak9wSZYg-40">
-          <mxGeometry x="5" width="240" height="30" as="geometry" />
+        <mxCell id="JlPEXCTAJmNuak9wSZYg-41" value="Rotational teaching methods based on results" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JlPEXCTAJmNuak9wSZYg-40">
+          <mxGeometry x="-5" y="5" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JlPEXCTAJmNuak9wSZYg-44" value="Machine learning Models" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="30" width="80" height="80" as="geometry" />
@@ -122,7 +122,7 @@
         <mxCell id="JlPEXCTAJmNuak9wSZYg-49" value="Personalized recommendation to students " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="460" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JlPEXCTAJmNuak9wSZYg-50" value="Progress updates to parents and regular intervals" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JlPEXCTAJmNuak9wSZYg-50" value="Progress updates to parents at regular intervals" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JlPEXCTAJmNuak9wSZYg-51" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="JlPEXCTAJmNuak9wSZYg-47">
